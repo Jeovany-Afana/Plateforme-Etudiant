@@ -1,0 +1,30 @@
+.color
+{
+    color: red;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+th,td
+{
+    border: 2px solid black;
+}
+
+/* #titre{
+    text-align: center;
+    color: red;
+}
+
+.titre
+{
+    text-align: center;
+    color: red;
+} */
+
+
